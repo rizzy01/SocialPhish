@@ -13,7 +13,7 @@ Usage of SocialPhish for attacking targets without prior mutual consent is illeg
 ![sh](https://preview.ibb.co/c3jD18/Kazam_screenshot_00000.png)
 
 #### Video:
-[![Watch the video](https://preview.ibb.co/c3jD18/Kazam_screenshot_00000.png)](https://streamable.com/ltnid)
+[![Watch the video](https://image.ibb.co/jb1bM8/player.png)](https://streamable.com/ltnid)
 
 ##### Usage:
 ```
