@@ -21,4 +21,7 @@ git clone https://github.com/xNetSecNowx/SocialPhish.git
 cd SocialPhish
 chmod +x socialphish.sh
 ./socialphish.sh
+```
 
+###### Donate! 
+Bitcoin: 1A3a1p22EHXWq7muYZc9rGTmRGaithMnjR
