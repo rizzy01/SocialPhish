@@ -9,10 +9,13 @@ Phishing Tool for Instagram, Facebook, Twitter, Snapchat, Github, Yahoo, Protonm
 ## Legal disclaimer:
 Usage of SocialPhish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
 
-#### Video:
+### Screenshot
+![Alt text](https://image.ibb.co/nhdEwK/phish.png "SocialPhish")
+
+##### Video:
 [![Watch the video](https://image.ibb.co/jb1bM8/player.png)](https://streamable.com/ltnid)
 
-##### Usage:
+###### Usage:
 ```
 git clone https://github.com/xHak9x/SocialPhish.git
 cd SocialPhish
@@ -20,5 +23,5 @@ chmod +x socialphish.sh
 ./socialphish.sh
 ```
 
-###### Donate! 
+####### Donate! 
 Bitcoin: 1A3a1p22EHXWq7muYZc9rGTmRGaithMnjR
